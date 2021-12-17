@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qUd+dw/FoLnP7PipkEV+bFnBPvz0FIuAgYHIfHoEZ4eAVAaH0YSke9o5Sq/7OlI94SsseGfoz2Nmx9bTr7p2Cg==",
+  "success": true,
+  "projectFilePath": "D:\\00-fisiere-cod\\cs-fudnamente\\setul1\\setul1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bogdan\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\bogdan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\bogdan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\bogdan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
