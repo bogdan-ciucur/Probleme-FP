@@ -1,5 +1,7 @@
 using System;
 using ProblemeFP_SET1;
+using ProblemeFP_SET2;
+using ProblemeFP_SET3;
 
 namespace ProblemeFP
 {
@@ -7,7 +9,7 @@ namespace ProblemeFP
     {
         public static void Main()
         {
-            Set1.P10();
+            Set3.P28();
         }
 
         private static void Run()

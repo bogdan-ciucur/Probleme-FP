@@ -30,13 +30,6 @@ F:/00-fisiere-cod/cs-fudnamente/setul1/obj/Debug/net5.0/setul1.genruntimeconfig.
 /media/bogdan/Storage/00-fisiere-cod/cs-fudnamente/setul1/obj/Debug/net5.0/ref/setul1.dll
 /media/bogdan/Storage/00-fisiere-cod/cs-fudnamente/setul1/obj/Debug/net5.0/setul1.pdb
 /media/bogdan/Storage/00-fisiere-cod/cs-fudnamente/setul1/obj/Debug/net5.0/setul1.genruntimeconfig.cache
-D:\00-fisiere-cod\cs-fudnamente\setul1\bin\Debug\net5.0\setul1.exe
-D:\00-fisiere-cod\cs-fudnamente\setul1\bin\Debug\net5.0\setul1.deps.json
-D:\00-fisiere-cod\cs-fudnamente\setul1\bin\Debug\net5.0\setul1.runtimeconfig.json
-D:\00-fisiere-cod\cs-fudnamente\setul1\bin\Debug\net5.0\setul1.runtimeconfig.dev.json
-D:\00-fisiere-cod\cs-fudnamente\setul1\bin\Debug\net5.0\setul1.dll
-D:\00-fisiere-cod\cs-fudnamente\setul1\bin\Debug\net5.0\ref\setul1.dll
-D:\00-fisiere-cod\cs-fudnamente\setul1\bin\Debug\net5.0\setul1.pdb
 D:\00-fisiere-cod\cs-fudnamente\setul1\obj\Debug\net5.0\setul1.csproj.AssemblyReference.cache
 D:\00-fisiere-cod\cs-fudnamente\setul1\obj\Debug\net5.0\setul1.GeneratedMSBuildEditorConfig.editorconfig
 D:\00-fisiere-cod\cs-fudnamente\setul1\obj\Debug\net5.0\setul1.AssemblyInfoInputs.cache
@@ -45,4 +38,11 @@ D:\00-fisiere-cod\cs-fudnamente\setul1\obj\Debug\net5.0\setul1.csproj.CoreCompil
 D:\00-fisiere-cod\cs-fudnamente\setul1\obj\Debug\net5.0\setul1.dll
 D:\00-fisiere-cod\cs-fudnamente\setul1\obj\Debug\net5.0\ref\setul1.dll
 D:\00-fisiere-cod\cs-fudnamente\setul1\obj\Debug\net5.0\setul1.pdb
+D:\00-fisiere-cod\cs-fudnamente\setul1\bin\Debug\net5.0\setul1.exe
+D:\00-fisiere-cod\cs-fudnamente\setul1\bin\Debug\net5.0\setul1.deps.json
+D:\00-fisiere-cod\cs-fudnamente\setul1\bin\Debug\net5.0\setul1.runtimeconfig.json
+D:\00-fisiere-cod\cs-fudnamente\setul1\bin\Debug\net5.0\setul1.runtimeconfig.dev.json
+D:\00-fisiere-cod\cs-fudnamente\setul1\bin\Debug\net5.0\setul1.dll
+D:\00-fisiere-cod\cs-fudnamente\setul1\bin\Debug\net5.0\ref\setul1.dll
+D:\00-fisiere-cod\cs-fudnamente\setul1\bin\Debug\net5.0\setul1.pdb
 D:\00-fisiere-cod\cs-fudnamente\setul1\obj\Debug\net5.0\setul1.genruntimeconfig.cache
